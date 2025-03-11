@@ -1,1 +1,1 @@
-# Examen_TP_Sghaier_Moetaz
+Ce projet est utilisé pour l'évaluation des compétences Git
